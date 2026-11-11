@@ -1,0 +1,20 @@
+55b7d2322000-55b7d2351000 r--p 00000000 fc:02 517                        /usr/bin/bash
+55b7d2351000-55b7d2430000 r-xp 0002f000 fc:02 517                        /usr/bin/bash
+55b7d2430000-55b7d246a000 r--p 0010e000 fc:02 517                        /usr/bin/bash
+55b7d246b000-55b7d246f000 r--p 00148000 fc:02 517                        /usr/bin/bash
+55b7d246f000-55b7d2478000 rw-p 0014c000 fc:02 517                        /usr/bin/bash
+55b7d2478000-55b7d2483000 rw-p 00000000 00:00 0 
+55b804f46000-55b8050bb000 rw-p 00000000 00:00 0                          [heap]
+7f65f0fa4000-7f65f0fab000 r--s 00000000 fc:02 12466                      /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+7f65f0fab000-7f65f1294000 r--p 00000000 fc:02 579                        /usr/lib/locale/locale-archive
+7f65f1294000-7f65f1297000 rw-p 00000000 00:00 0 
+7f65f1297000-7f65f12bf000 r--p 00000000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f12bf000-7f65f1454000 r-xp 00028000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f1454000-7f65f14ac000 r--p 001bd000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f14ac000-7f65f14ad000 ---p 00215000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f14ad000-7f65f14b1000 r--p 00215000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f14b1000-7f65f14b3000 rw-p 00219000 fc:02 12139                      /usr/lib/x86_64-linux-gnu/libc.so.6
+7f65f14b3000-7f65f14c0000 rw-p 00000000 00:00 0 
+7f65f14c0000-7f65f14ce000 r--p 00000000 fc:02 12743                      /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f65f14ce000-7f65f14df000 r-xp 0000e000 fc:02 12743                      /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
+7f65f14df000-7f65f14ed000 r--p 0001f000 fc:02 12743                      /usr/lib/x86_64-linux-gnu/libtinfo.so.6.3
