@@ -1,0 +1,10 @@
+    PID COMMAND            VSZ   RSS
+    395 systemd-journal 102360 56680
+    649 snapd           1253508 36320
+    432 multipathd      289320 27104
+    643 networkd-dispat  32756 19180
+    653 udisksd         392496 12752
+    536 systemd-resolve  25688 12748
+    690 ModemManager    317896 12040
+      1 systemd         166292 11416
+   2651 sshd             16932 10668
