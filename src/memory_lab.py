@@ -1,7 +1,7 @@
 import os 
 import time 
  
-size_mb = 100   # сколько МиБ выделить 
+size_mb = 200   # сколько МиБ выделить 
  
 print("PID:", os.getpid(), flush=True) 
 print(f"Выделяю {size_mb} МиБ...", flush=True) 
